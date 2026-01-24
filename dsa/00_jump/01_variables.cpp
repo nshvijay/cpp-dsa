@@ -8,7 +8,7 @@ int main(){
     cout << "He liked being 19" << endl;
     cout << "But he didn't like the name Vijay" << endl;
 
-// alter method
+// alternative method
     cout << "My name is " << name << endl;
     cout << "My age is " << age << endl;
 
