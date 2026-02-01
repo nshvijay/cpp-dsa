@@ -2,7 +2,7 @@
 using namespace std;
 int main(){
     string name= "Vijay";
-    int age=19;
+    int age = 19;
     cout << "There once was a man named Vijay" << endl;
     cout << "He was 19 years old" << endl;
     cout << "He liked being 19" << endl;
