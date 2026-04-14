@@ -26,5 +26,20 @@ CMakeCache.txt
 cmake_install.cmake
 Makefile
 
-# Debug
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
 
+# macOS specific ← YOU WERE MISSING THIS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# VSCode specific ← OPTIONAL but recommended
+.vscode/
+*.code-workspace
